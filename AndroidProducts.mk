@@ -5,9 +5,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/cafex_miatoll.mk
+    $(LOCAL_DIR)/cygnus_miatoll.mk
 
 COMMON_LUNCH_CHOICES := \
-    cafex_miatoll-user \
-    cafex_miatoll-userdebug \
-    cafex_miatoll-eng
+    cygnus_miatoll-user \
+    cygnus_miatoll-userdebug \
+    cygnus_miatoll-eng
